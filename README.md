@@ -15,7 +15,7 @@ An AI-powered meeting notes summarizer and sharer built with React, Express, and
 ### 1. Install Dependencies
 
 ```bash
-npm install
+pnpm install
 ```
 
 ### 2. Configure Environment Variables
@@ -45,7 +45,7 @@ Get your Resend API key from [https://resend.com/api-keys](https://resend.com/ap
 ### 3. Start Development Server
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 The application will be available at `http://localhost:8080`
